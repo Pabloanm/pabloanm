@@ -17,6 +17,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -109,6 +117,30 @@
       height="40"
     />
   </a>
+  <a
+    href="https://www.atlassian.com/es/software/jira"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain-wordmark.svg"
+      alt="Jira"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.mysql.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -129,18 +161,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.mysql.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>  
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
