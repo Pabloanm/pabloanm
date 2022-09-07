@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h1 align="center">Hi 👋, I'm Pablo Nuñez Monzon</h1>
 <h3 align="center">Software development and project management from Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics** 
 
 - 🎓 I have a degree in **Information Systems** 
 
@@ -11,14 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/pabloanm" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="pabloanm"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://www.pabloanm.com.ar" target="blank"
+    >🖥️</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
