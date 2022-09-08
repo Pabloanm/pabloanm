@@ -7,12 +7,18 @@
 
 - 📫 How to reach me **pabloanm@gmail.com**
 
-- ⚡ Fun fact **I like photography, bicycle tours, music and fix things**
+- ⚡ Fun fact **I like 📷 photography, 🚵 bicycle tours, 🎵 music and 🔨 fix things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.pabloanm.com.ar" target="blank"
     >🖥️</a>
+  
+    <a href="https://www.instagram.com/pabloanm/" target="blank"
+    >📷</a>
+  
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
