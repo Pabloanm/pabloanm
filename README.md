@@ -11,8 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.pabloanm.com.ar" target="blank">🖥️</a>
+  <a href="https://www.pabloanm.com.ar" target="blank">🌐</a>
   <a href="https://www.instagram.com/pabloanm/" target="blank">📷</a> 
+  <a href="https://openprocessing.org/user/151397?view=activity&o=5" target="blank">🎆</a> 
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
