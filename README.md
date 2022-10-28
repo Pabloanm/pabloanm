@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Nuñez Monzon</h1>
-<h3 align="center">Software developer and project management from Buenos Aires, Argentina</h3>
+<h3 align="center">Software developer and project manager from Buenos Aires, Argentina</h3>
 
 - 🌱 I’m currently learning **Data Analytics** 
 
